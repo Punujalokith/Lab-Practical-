@@ -1,0 +1,4 @@
+D:\01. University Work\1st Year\1st YEAR 3rd SEMESTER\Lab Sheet\Lab Sheet Unzip\Lab1\Question1\obj\Debug\Lab1 Question1.csproj.AssemblyReference.cache
+D:\01. University Work\1st Year\1st YEAR 3rd SEMESTER\Lab Sheet\Lab Sheet Unzip\Lab1\Question1\obj\Debug\Lab1 Question1.csproj.CoreCompileInputs.cache
+D:\01. University Work\1st Year\1st YEAR 3rd SEMESTER\Lab Sheet\Lab Sheet Unzip\Lab1\Question1\obj\Debug\Lab1.exe
+D:\01. University Work\1st Year\1st YEAR 3rd SEMESTER\Lab Sheet\Lab Sheet Unzip\Lab1\Question1\obj\Debug\Lab1.pdb
